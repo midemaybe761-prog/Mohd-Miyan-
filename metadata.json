@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Studio Pro",
+  "description": "Professional AI Video Generator, Script Writer, Video Editing Studio, AI Thumbnails, and Subtitle Engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
